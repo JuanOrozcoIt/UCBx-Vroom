@@ -1,2 +1,2 @@
 # Vroom
-VR environment for multiple avatars and live audio.
+Live VR environment with audio for multiple avatars.
